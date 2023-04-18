@@ -1,1 +1,1 @@
-# Gym-Membership-Application
+# Gym Membership Application
